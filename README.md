@@ -20,4 +20,7 @@ This application is working only on a iPhone device. If you ran it on Xcode, the
 
 - This application show your phone's accelaration and/or rotation in all three X,Y,Z coordinates. All these coordinates refreshing automatically in every 2 seconds. If you want to, then you can clear the coordinates also and start over any other functionality.
 
-## Examples
+## Example
+<div align="center">
+    <img src="/Pictures/Platform.png" width="250px"</img>
+</div>
